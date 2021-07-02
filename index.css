@@ -1,12 +1,4 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-body{
-    font-family: "poppins",sans-serif;
-    background-color: #d3f7f4;
-}
-u{
-    color:rgb(35, 84, 219);
+body {
+  background-color: #ebf2ff;
+  font-family: "Poppins", sans-serif;
 }
