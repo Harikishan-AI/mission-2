@@ -1,9 +1,12 @@
 *{
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 body{
     font-family: "poppins",sans-serif;
-    background-color: #e1e7f1;
+    background-color: #d3f7f4;
+}
+u{
+    color:rgb(35, 84, 219);
 }
